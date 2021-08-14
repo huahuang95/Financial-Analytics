@@ -20,5 +20,5 @@ Individual project for Financial Analytics (BA870)
 - Linear Regression
 
 ### Project Summary
-- Identified the ratios and characteristics played as the most statistically and economically significant determinants of stock returns after Cvoid-19 shock.
+- Identified the ratios and characteristics which played as the most statistically and economically significant determinants of stock returns after Cvoid-19 shock.
 - Calculated average stock returns for each industry classification, conducted fixed effect regressions, and explored the correlation between the industries and stock returns in early and late 2020.
