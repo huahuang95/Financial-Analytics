@@ -12,7 +12,7 @@ Individual project for Financial Analytics (BA870)
 - GICS GGROUP Codes / NAICS Industry Codes
 
 ### Project Objectives
-- Determine the financial accounting characteristics in 2019 that explain varying exposures to Covid-19 market Shock for Early and Late 2020.
+- Determine the financial accounting characteristics in 2019 that explain varying exposures to Covid-19 market shock for early (Jan-Mar) and late (Apr-Dec) 2020.
 - Discover if industry or sector explains differences in stock returns for early (Jan-Mar) and late (Apr-Dec) 2020. 
 
 ### Language/Methods
